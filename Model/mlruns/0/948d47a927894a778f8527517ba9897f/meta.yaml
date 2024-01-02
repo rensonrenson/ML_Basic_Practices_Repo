@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DGB-Renson/PycharmProjects/ML_Basic_Practices_Repo2/Model/mlruns/0/948d47a927894a778f8527517ba9897f/artifacts
+end_time: 1704209714270
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 948d47a927894a778f8527517ba9897f
+run_name: legendary-crab-551
+run_uuid: 948d47a927894a778f8527517ba9897f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704209709042
+status: 3
+tags: []
+user_id: DGB-Renson
